@@ -26,3 +26,10 @@ exclude_patterns = []
 
 html_theme = 'furo'
 html_static_path = ['_static']
+html_theme_options = {
+    "light_css_variables": {
+        "color-brand-primary": "red",
+        "color-brand-content": "#CC3333",
+        "color-admonition-background": "orange",
+    },
+}
