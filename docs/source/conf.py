@@ -14,7 +14,8 @@ release = ''
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ["myst_parser", 'sphinx_design','sphinxext_opengraph','sphinx_copybutton']
+myst_enable_extensions = ["colon_fence"]
 
 templates_path = ['_templates']
 exclude_patterns = []
