@@ -15,7 +15,9 @@ release = ''
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = ["myst_parser", 'sphinx_design','sphinxext.opengraph','sphinx_copybutton']
-myst_enable_extensions = ["colon_fence"]
+myst_enable_extensions = ["colon_fence","deflist","dollarmath"]
+myst_heading_anchors = 2
+myst_highlight_code_blocks = true
 ogp_site_url = 'https://pumadocs.readthedocs.io/'
 
 templates_path = ['_templates']
