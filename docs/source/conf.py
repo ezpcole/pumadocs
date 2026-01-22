@@ -17,7 +17,7 @@ release = ''
 extensions = ["myst_parser", 'sphinx_design','sphinxext.opengraph','sphinx_copybutton']
 myst_enable_extensions = ["colon_fence","deflist","dollarmath"]
 myst_heading_anchors = 2
-myst_highlight_code_blocks = true
+myst_highlight_code_blocks = True
 ogp_site_url = 'https://pumadocs.readthedocs.io/'
 
 templates_path = ['_templates']
