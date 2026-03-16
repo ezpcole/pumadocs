@@ -13,6 +13,7 @@ This is a document containing lots of information that can be useful to new team
 * [Official Guide to Judged Awards](https://v5rc-kb.recf.org/hc/en-us/articles/33153576505367-Guide-to-Judging-Judged-Awards-Appendix)
 * [Official Guide to Judging Notebooks (note--this is lengthy and you should look at part 2 only)](https://v5rc-kb.recf.org/hc/en-us/articles/9681296966423-Guide-to-Judging-Judging-Engineering-Notebooks#section-5-judging-engineering-notebooks-J0F3b)
 * [Notebook Rubric](https://recf.org/documents/2024/11/notebook-and-interview-rubrics-vex-factory-automation-competition.pdf/)
+* [Innovate Award Submission Form](https://kb.roboticseducation.org/hc/en-us/articles/17319258476439-Judging-Resource-Innovate-Award-Submission-Information-Form)
 
 ```{toctree}
 Design
