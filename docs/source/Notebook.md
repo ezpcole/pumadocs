@@ -2,7 +2,7 @@
 
 ## On the Importance of Notebookers/Notebooking
 
-Notebooking is one of the most important aspects of a team. Although it may seem useless or a role given to underperforming team members, it is still extremely important. You can win 7 awards for notebooking and interviews, but only 4 from pure performance alone. Notebooking with quality is also difficult, as you have to understand 
+Notebooking is one of the most important aspects of a team. Although it may seem useless or a role given to underperforming team members, it is still extremely important. You can win 7 awards for notebooking and interviews, but only 4 from pure performance alone. Notebooking with quality is also difficult, as you have to understand every aspect of design and perform excellently in interviews.
 
 ## Introduction
 
