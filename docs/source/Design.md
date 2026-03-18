@@ -15,3 +15,5 @@ Onshape is a CAD software which is free for students to use without needing to r
 ### Protobot
 
 Protobot is a beginner friendly CAD software specifically designed for VEX Robotics. It can be found [here](https://github.com/BreadSoup/Protobot-Rebuilt/releases). It has many parts from the vex library, and is extremely lightweight and easy to learn. For these qualities, it makes it a very good software for beginner teams, especially in their first year. It is not sustainable however, as it lacks custom drawings (which means no custom poly), and does not offer constraints that keep parts in place, meaning that moving many parts at once is hard. It is also local-based, making it difficult to sync with team members.
+
+## Drivetrains
