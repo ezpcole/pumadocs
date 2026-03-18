@@ -67,7 +67,11 @@ Notebooking is one of the most important aspects of a team. Although it may seem
 
 ### Etiquette
 
+You should be courteous, and treat the judges with respect. Although this is obvious, you should try to be extra nice and smile a lot. Imagine this is your job interview or something. Try to explain anything complicated (such as a PID controller or a PTO and winch) in simpler terms, and try to make sure the judges understand everything you talk about.
+
 ### What should you talk about?
+
+
 
 ## Awards
 
